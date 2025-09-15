@@ -1,0 +1,41 @@
+.meow {
+    width: 250px;
+    height: auto;
+}
+
+.mono {
+    width: 300px;
+    height: auto;
+}
+
+.Latte {
+    width: 200px;
+    height: auto;
+}
+
+.sleep {
+    width: 270px;
+    height: auto;
+}
+
+body {
+    background-color: rgba(85, 175, 211, 0.5);
+
+}
+
+button.btn {
+    padding: 11px 22px;
+}
+
+.send-btn {
+    width: 100%
+    background-color: #9d7cff;
+    color: white;
+    padding: 12px
+
+}
+
+.send-btn:hover {
+    background-color: #ab6cff;
+    box-shadow: 0 4px 7px rgba(27, 99, 255, 0.5);
+}
